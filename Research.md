@@ -28,6 +28,11 @@ According to the client, the website would need to incorporate visially appealin
 
 The 3 websites above that were analyzed all look very similar in design. They incorporate high quality imagary with animated headings and interactive buttons. The use of scolling parralax seems to be the trend at the moment. 
 
+### References:
+
++ http://www.fletcherconstruction.co.nz/
++ https://www.higgins.co.nz/
++ http://hawkins.co.nz/
 
 
 

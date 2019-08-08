@@ -16,9 +16,14 @@ The following research provides information regrading companies of a similar nat
 + What the company actually does/specializes in
 + Past projects/Awards
 + Contact form
-+ Carrer opportunities page
++ Careeer opportunities page
 + Current news in relation to the industry
 + Social media links
+
+### Client special requirements:
+
+The client will be pushing the boundaries of construction with new automated machinery that basically prints parts for houses.
+According to the client, the website would need to incorporate visially appealing demonstrations of this construction process from mapping out the inside of a room to printing the required parts. Also industry leading design that portrays a leader in innovation. The client wants the website to look vastly diffrent from all others which look very similar.
 
 
 

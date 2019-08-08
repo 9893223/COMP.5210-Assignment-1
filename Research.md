@@ -25,7 +25,7 @@ The client wants the website to look and feel vastly diffrent from similar websi
 
 ### Current web design trends:
 
-The 3 websites above that were analyzed all look very similar in design. They incorporate high quality imagary with animated headings and interactive buttons. The use of scolling parralax seems to be the trend at the moment. 
+The 3 websites above that were analyzed all look very similar in design. They incorporate large high quality imagary with animated headings and interactive buttons. The use of scolling parralax seems to be the trend at the moment. 
 
 ### References:
 

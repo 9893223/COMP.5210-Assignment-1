@@ -1,6 +1,5 @@
 # COMP.5210-Assignment-1 Research
 ## COMPANY: OWENS INFASTRUCTURE
-
 The following research provides information regrading companies of a similar nature, customer requirements of such a site and current web design trends. This information will assist me in building a website for Owens Infastructure.
 
 ### Examples of similar Websites:

@@ -1,4 +1,4 @@
 # COMP.5210-Assignment-1 Research
-## OWENS INFASTRUCTURE
+## COMPANY: OWENS INFASTRUCTURE
 
-I will be building a website for a local compnay called Owens Infasturcture.
+The following research will assist me with incorporating the infomration I need to adequatly build a website for Owens Infastructure.
